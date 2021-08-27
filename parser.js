@@ -1,5 +1,3 @@
-'use strict';
-
 class Tokens {
 	constructor() {
 		this.ARTIST = 'ar'  // Lyrics artist, (Luis Fonsi)
