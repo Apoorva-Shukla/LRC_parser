@@ -35,7 +35,7 @@ class Parser {
         this.content = file_content.trim().replace('\n', '');
         this.tag_elements = {};
         this.lyrics = {};
-		this.tokens = new Tokens();
+	this.tokens = new Tokens();
     }
 
     parse() {
